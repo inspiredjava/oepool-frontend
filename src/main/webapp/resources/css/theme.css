@@ -1,0 +1,26 @@
+body {
+    background-image: url("/resources/img/background.png");
+}
+
+.redText {
+    color: red;
+}
+
+.greenText {
+    color: green;
+}
+
+.chart-container {
+    width: 500px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.stat-brand {
+    color: darkblue;
+    font-style: inherit;
+}
+
+.brand-color {
+    color: #1790B6;
+}

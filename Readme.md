@@ -1,1 +1,2 @@
+[![Build Status](https://travis-ci.org/inspiredjava/oepool-frontend.svg?branch=master)](https://travis-ci.org/inspiredjava/oepool-frontend)
 # Frontend statistics module for [open-ethereum-pool](https://github.com/sammy007/open-ethereum-pool)
